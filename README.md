@@ -15,11 +15,12 @@ This repository is designed to be a copy of my website that contains my work in 
 | INTERACTIVE MEDIA | Interactive experiences and user experience projects |
 ---
 ### WEBSITE LINK
-https://j-a-sod.github.io/SODERRA/
+[Link
+](https://j-a-sod.github.io/26---P-PORTFOLIO---SODERRAV1/)
 
 ### PROJECT LINK
-[link
-](https://j-a-sod.github.io/26---P-PORTFOLIO---SODERRAV1/)
+[Link](https://github.com/J-A-SOD/26---P-PORTFOLIO---SODERRAV1)
+
 ### PROCESS IMAGES
 
 ![process image](1.jpeg "Title")
