@@ -18,8 +18,8 @@ This repository is designed to be a copy of my website that contains my work in 
 https://j-a-sod.github.io/SODERRA/
 
 ### PROJECT LINK
-https://github.com/J-A-SOD/SODERRA/tree/dev
-
+[link
+](https://j-a-sod.github.io/26---P-PORTFOLIO---SODERRAV1/)
 ### PROCESS IMAGES
 
 ![process image](1.jpeg "Title")
