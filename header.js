@@ -262,10 +262,10 @@ function magneticScroll() {
 magneticScroll();
 
 const adSolemImages = [
-    "/assets/projects/int_adsolem/img (1).png",
-    "/assets/projects/int_adsolem/img (2).png",
-    "/assets/projects/int_adsolem/img (3).png",
-    "/assets/projects/int_adsolem/img (4).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_adsolem/img (1).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_adsolem/img (2).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_adsolem/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_adsolem/img (4).png"
 ];
 
 const adSolemPreview =
@@ -289,10 +289,10 @@ if (adSolemPreview) {
 
 
 const imleImages = [
-    "/assets/projects/int_IMLE/img (1).png",
-    "/assets/projects/int_IMLE/img (2).png",
-    "/assets/projects/int_IMLE/img (3).png",
-    "/assets/projects/int_IMLE/img (4).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_IMLE/img (1).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_IMLE/img (2).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_IMLE/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_IMLE/img (4).png"
 ];
 
 const imlePreview =
@@ -315,10 +315,10 @@ if (imlePreview) {
 }
 
 const kowloonImages = [
-    "/assets/projects/int_kowloon/img (1).png",
-    "/assets/projects/int_kowloon/img (2).png",
-    "/assets/projects/int_kowloon/img (3).png",
-    "/assets/projects/int_kowloon/img (4).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_kowloon/img (1).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_kowloon/img (2).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_kowloon/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_kowloon/img (4).png"
 ];
 
 const kowloonPreview =
@@ -341,10 +341,10 @@ if (kowloonPreview) {
 }
 
 const synthImages = [
-    "/assets/projects/int_synth/img (1).png",
-    "/assets/projects/int_synth/img (2).png",
-    "/assets/projects/int_synth/img (3).png",
-    "/assets/projects/int_synth/img (4).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_synth/img (1).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_synth/img (2).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_synth/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/int_synth/img (4).png"
 ];
 
 const synthPreview =
@@ -367,10 +367,10 @@ if (synthPreview) {
 }
 
 const hk01Images = [
-    "/assets/projects/pho_hk-city/img (1).jpg",
-    "/assets/projects/pho_hk-city/img (2).jpg",
-    "/assets/projects/pho_hk-city/img (3).jpg",
-    "/assets/projects/pho_hk-city/img (4).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-city/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-city/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-city/img (3).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-city/img (4).jpg"
 ];
 
 const hk01Preview =
@@ -393,10 +393,10 @@ if (hk01Preview) {
 }
 
 const hk02Images = [
-    "/assets/projects/pho_hk-ground/img (1).jpg",
-    "/assets/projects/pho_hk-ground/img (2).jpg",
-    "/assets/projects/pho_hk-ground/img (3).jpg",
-    "/assets/projects/pho_hk-ground/img (4).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-ground/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-ground/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-ground/img (3).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/pho_hk-ground/img (4).jpg"
 ];
 
 const hk02Preview =
@@ -419,10 +419,10 @@ if (hk02Preview) {
 }
 
 const mandelImages = [
-    "/assets/projects/art_mandel/img (1).jpg",
-    "/assets/projects/art_mandel/img (2).jpg",
-    "/assets/projects/art_mandel/img (3).jpg",
-    "/assets/projects/art_mandel/img (4).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_mandel/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_mandel/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_mandel/img (3).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_mandel/img (4).jpg"
 ];
 
 const mandelPreview =
@@ -445,10 +445,10 @@ if (mandelPreview) {
 }
 
 const japanImages = [
-    "/assets/projects/art_japan/img (1).jpg",
-    "/assets/projects/art_japan/img (2).jpg",
-    "/assets/projects/art_japan/img (3).jpg",
-    "/assets/projects/art_japan/img (4).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_japan/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_japan/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_japan/img (3).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_japan/img (4).jpg"
 ];
 
 const japanPreview =
@@ -471,10 +471,10 @@ if (japanPreview) {
 }
 
 const romeImages = [
-    "/assets/projects/art_rome/img (1).jpg",
-    "/assets/projects/art_rome/img (2).jpg",
-    "/assets/projects/art_rome/img (3).jpg",
-    "/assets/projects/art_rome/img (4).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_rome/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_rome/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_rome/img (3).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/art_rome/img (4).jpg"
 ];
 
 const romePreview =
@@ -497,10 +497,10 @@ if (romePreview) {
 }
 
 const cliffImages = [
-    "/assets/projects/arch_cliffside/img (1).png",
-    "/assets/projects/arch_cliffside/img (2).png",
-    "/assets/projects/arch_cliffside/img (3).png",
-    "/assets/projects/arch_cliffside/img (4).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_cliffside/img (1).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_cliffside/img (2).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_cliffside/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_cliffside/img (4).png"
 ];
 
 const cliffPreview =
@@ -523,10 +523,10 @@ if (cliffPreview) {
 }
 
 const houseImages = [
-    "/assets/projects/arch_house/img (3).png",
-    "/assets/projects/arch_house/img (4).png",
-    "/assets/projects/arch_house/img (5).png",
-    "/assets/projects/arch_house/img (6).png"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_house/img (3).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_house/img (4).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_house/img (5).png",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_house/img (6).png"
 ];
 
 const housePreview =
@@ -549,10 +549,10 @@ if (housePreview) {
 }
 
 const housingImages = [
-    "/assets/projects/arch_housing/img (1).jpg",
-    "/assets/projects/arch_housing/img (2).jpg",
-    "/assets/projects/arch_housing/img (10).jpg",
-    "/assets/projects/arch_housing/img (11).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_housing/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_housing/img (2).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_housing/img (10).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_housing/img (11).jpg"
 ];
 
 const housingPreview =
@@ -575,10 +575,10 @@ if (housingPreview) {
 }
 
 const kampungImages = [
-    "/assets/projects/arch_kampung/img (1).jpg",
-    "/assets/projects/arch_kampung/img (6).jpg",
-    "/assets/projects/arch_kampung/img (9).jpg",
-    "/assets/projects/arch_kampung/img (10).jpg"
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_kampung/img (1).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_kampung/img (6).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_kampung/img (9).jpg",
+    "/26---P-PORTFOLIO---SODERRAV1/assets/projects/arch_kampung/img (10).jpg"
 ];
 
 const kampungPreview =
