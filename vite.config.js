@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
 export default defineConfig({
-    base: '/SODERRA/',
+    base: '/26---P-PORTFOLIO---SODERRAV1/',
 
     build: {
         rollupOptions: {
