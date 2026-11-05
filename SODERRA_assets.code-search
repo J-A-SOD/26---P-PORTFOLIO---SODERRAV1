@@ -1,0 +1,1238 @@
+# Query: SODERRA/assets
+# Flags: WordMatch
+# ContextLines: 1
+
+330 results - 30 files
+
+header.js:
+  264  const adSolemImages = [
+  265:     "/assets/projects/int_adsolem/img (1).png",
+  266:     "/assets/projects/int_adsolem/img (2).png",
+  267:     "/assets/projects/int_adsolem/img (3).png",
+  268:     "/assets/projects/int_adsolem/img (4).png"
+  269  ];
+
+  291  const imleImages = [
+  292:     "/assets/projects/int_IMLE/img (1).png",
+  293:     "/assets/projects/int_IMLE/img (2).png",
+  294:     "/assets/projects/int_IMLE/img (3).png",
+  295:     "/assets/projects/int_IMLE/img (4).png"
+  296  ];
+
+  317  const kowloonImages = [
+  318:     "/assets/projects/int_kowloon/img (1).png",
+  319:     "/assets/projects/int_kowloon/img (2).png",
+  320:     "/assets/projects/int_kowloon/img (3).png",
+  321:     "/assets/projects/int_kowloon/img (4).png"
+  322  ];
+
+  343  const synthImages = [
+  344:     "/assets/projects/int_synth/img (1).png",
+  345:     "/assets/projects/int_synth/img (2).png",
+  346:     "/assets/projects/int_synth/img (3).png",
+  347:     "/assets/projects/int_synth/img (4).png"
+  348  ];
+
+  369  const hk01Images = [
+  370:     "/assets/projects/pho_hk-city/img (1).jpg",
+  371:     "/assets/projects/pho_hk-city/img (2).jpg",
+  372:     "/assets/projects/pho_hk-city/img (3).jpg",
+  373:     "/assets/projects/pho_hk-city/img (4).jpg"
+  374  ];
+
+  395  const hk02Images = [
+  396:     "/assets/projects/pho_hk-ground/img (1).jpg",
+  397:     "/assets/projects/pho_hk-ground/img (2).jpg",
+  398:     "/assets/projects/pho_hk-ground/img (3).jpg",
+  399:     "/assets/projects/pho_hk-ground/img (4).jpg"
+  400  ];
+
+  421  const mandelImages = [
+  422:     "/assets/projects/art_mandel/img (1).jpg",
+  423:     "/assets/projects/art_mandel/img (2).jpg",
+  424:     "/assets/projects/art_mandel/img (3).jpg",
+  425:     "/assets/projects/art_mandel/img (4).jpg"
+  426  ];
+
+  447  const japanImages = [
+  448:     "/assets/projects/art_japan/img (1).jpg",
+  449:     "/assets/projects/art_japan/img (2).jpg",
+  450:     "/assets/projects/art_japan/img (3).jpg",
+  451:     "/assets/projects/art_japan/img (4).jpg"
+  452  ];
+
+  473  const romeImages = [
+  474:     "/assets/projects/art_rome/img (1).jpg",
+  475:     "/assets/projects/art_rome/img (2).jpg",
+  476:     "/assets/projects/art_rome/img (3).jpg",
+  477:     "/assets/projects/art_rome/img (4).jpg"
+  478  ];
+
+  499  const cliffImages = [
+  500:     "/assets/projects/arch_cliffside/img (1).png",
+  501:     "/assets/projects/arch_cliffside/img (2).png",
+  502:     "/assets/projects/arch_cliffside/img (3).png",
+  503:     "/assets/projects/arch_cliffside/img (4).png"
+  504  ];
+
+  525  const houseImages = [
+  526:     "/assets/projects/arch_house/img (3).png",
+  527:     "/assets/projects/arch_house/img (4).png",
+  528:     "/assets/projects/arch_house/img (5).png",
+  529:     "/assets/projects/arch_house/img (6).png"
+  530  ];
+
+  551  const housingImages = [
+  552:     "/assets/projects/arch_housing/img (1).jpg",
+  553:     "/assets/projects/arch_housing/img (2).jpg",
+  554:     "/assets/projects/arch_housing/img (10).jpg",
+  555:     "/assets/projects/arch_housing/img (11).jpg"
+  556  ];
+
+  577  const kampungImages = [
+  578:     "/assets/projects/arch_kampung/img (1).jpg",
+  579:     "/assets/projects/arch_kampung/img (6).jpg",
+  580:     "/assets/projects/arch_kampung/img (9).jpg",
+  581:     "/assets/projects/arch_kampung/img (10).jpg"
+  582  ];
+
+proj-arch.html:
+   87          <a
+   88:             href="/assets/projects/arch_kampung.html"
+   89              target="_blank"
+
+   94                  id="kampung-preview"
+   95:                 src="/assets/projects/arch_kampung/img (1).jpg"
+   96                  alt="kampung project preview"
+
+  147          <a
+  148:             href="/assets/projects/arch_cliffside.html"
+  149              target="_blank"
+
+  154                  id="cliff-preview"
+  155:                 src="/assets/projects/arch_cliffside/img (2).png"
+  156                  alt="cliff project preview"
+
+  209          <a
+  210:             href="/assets/projects/arch_housing.html"
+  211              target="_blank"
+
+  216                  id="housing-preview"
+  217:                 src="/assets/projects/arch_housing/img (1).png"
+  218                  alt="housing project preview"
+
+  272          <a
+  273:             href="/assets/projects/arch_house.html"
+  274              target="_blank"
+
+  279                  id="house-preview"
+  280:                 src="/assets/projects/arch_house/img (3).png"
+  281                  alt="house project preview"
+
+proj-interactive.html:
+   94                  id="ad-solem-preview"
+   95:                 src="/assets/projects/int_adsolem/img (1).png"
+   96                  alt="Ad Solem project preview"
+
+  157                  id="imle-preview"
+  158:                 src="/assets/projects/int_IMLE/img (2).png"
+  159                  alt="imle project preview"
+
+  219                  id="kowloon-preview"
+  220:                 src="/assets/projects/int_kowloon/img (2).png"
+  221                  alt="kowloon project preview"
+
+  280                  id="synth-preview"
+  281:                 src="/assets/projects/int_synth/img (2).png"
+  282                  alt="synth project preview"
+
+  344                  id="soderra-preview"
+  345:                 src="/assets/projects/int_soderra/img (2).png"
+  346                  alt="soderra project preview"
+
+proj-music.html:
+   90                  id="suzanne-preview"
+   91:                 src="/assets/projects/mus_suzanne/suzanne.png"
+   92                  alt="suzanne project preview"
+
+  142          <a
+  143:             href="/assets/projects/mus_epi.html"
+  144              target="_blank"
+
+  149                  id="epi-preview"
+  150:                 src="/assets/projects/mus_epi/epi.png"
+  151                  alt="epi project preview"
+
+  202          <a
+  203:             href="/assets/projects/mus_sideline.html"
+  204              target="_blank"
+
+  209                  id="sideline-preview"
+  210:                 src="/assets/projects/mus_sideline/sideline.png"
+  211                  alt="sideline project preview"
+
+  262          <a
+  263:             href="/assets/projects/mus_insomnia.html"
+  264              target="_blank"
+
+  269                  id="Insomnia-preview"
+  270:                 src="/assets/projects/mus_insomnia/insomnia.png"
+  271                  alt="insomnia project preview"
+
+proj-photo.html:
+   87          <a
+   88:             href="/assets/projects/pho_hk-city.html"
+   89              target="_blank"
+
+   94                  id="hk01-preview"
+   95:                 src="/assets/projects/pho_hk-city/img (1).png"
+   96                  alt="hk01 project preview"
+
+  151          <a
+  152:             href="/assets/projects/art_mandel.html"
+  153              target="_blank"
+
+  158                  id="mandel-preview"
+  159:                 src="/assets/projects/art_mandel/img (1).png"
+  160                  alt="mandel project preview"
+
+  217          <a
+  218:             href="/assets/projects/art_japan.html"
+  219              target="_blank"
+
+  224                  id="japan-preview"
+  225:                 src="/assets/projects/art_japan/img (1).png"
+  226                  alt="japan project preview"
+
+  283          <a
+  284:             href="/assets/projects/art_rome.html"
+  285              target="_blank"
+
+  290                  id="rome-preview"
+  291:                 src="/assets/projects/art_rome/img (1).png"
+  292                  alt="rome project preview"
+
+  350          <a
+  351:             href="/assets/projects/pho_hk-ground.html"
+  352              target="_blank"
+
+  357                  id="hk02-preview"
+  358:                 src="/assets/projects/pho_hk-ground/img (1).png"
+  359                  alt="hk02 project preview"
+
+script.js:
+  858              "--panel-bg",
+  859:             "url('/assets/projects/int_adsolem/img (4).png')"
+  860          );
+
+  888              "--panel-bg",
+  889:             "url('/assets/projects/arch_housing/img (4).png')"
+  890          );
+
+  914              "--panel-bg",
+  915:             "url('/assets/projects/art_rome/img (4).jpg')"
+  916          );
+
+  940              "--panel-bg",
+  941:             "url('/assets/projects/mus_rain/img (4).png')"
+  942          );
+
+assets\projects\arch_cliffside.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/arch_cliffside/img (1).png" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/arch_cliffside/img (2).png" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_cliffside/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_cliffside/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/arch_cliffside/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_cliffside/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/arch_cliffside/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/arch_cliffside/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-wide">
+  83:           <img src="/assets/projects/arch_cliffside/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\arch_house.html:
+  50          <figure class="gallery-item ">
+  51:           <img src="/assets/projects/arch_house/img (1).png" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item ">
+  55:           <img src="/assets/projects/arch_house/img (2).png" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_house/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_house/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/arch_house/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_house/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item ">
+  75:           <img src="/assets/projects/arch_house/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item ">
+  79:           <img src="/assets/projects/arch_house/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item ">
+  83:           <img src="/assets/projects/arch_house/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\arch_housing.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/arch_housing/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/arch_housing/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_housing/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_housing/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item ">
+  67:           <img src="/assets/projects/arch_housing/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_housing/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-wide">
+  75:           <img src="/assets/projects/arch_housing/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/arch_housing/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item ">
+  83:           <img src="/assets/projects/arch_housing/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/arch_housing/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/arch_housing/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\arch_kampung.html:
+   50          <figure class="gallery-item gallery-item-large">
+   51:           <img src="/assets/projects/arch_kampung/img (6).jpg" alt="" />
+   52          </figure>
+
+   54          <figure class="gallery-item gallery-item-wide">
+   55:           <img src="/assets/projects/arch_kampung/img (1).jpg" alt="" />
+   56          </figure>
+
+   58          <figure class="gallery-item gallery-item-large">
+   59:           <img src="/assets/projects/arch_kampung/img (2).jpg" alt="" />
+   60          </figure>
+
+   62          <figure class="gallery-item gallery-item-large">
+   63:           <img src="/assets/projects/arch_kampung/img (3).jpg" alt="" />
+   64          </figure>
+
+   66          <figure class="gallery-item gallery-item-wide">
+   67:           <img src="/assets/projects/arch_kampung/img (4).jpg" alt="" />
+   68          </figure>
+
+   70          <figure class="gallery-item ">
+   71:           <img src="/assets/projects/arch_kampung/img (5).jpg" alt="" />
+   72          </figure>
+
+   76          <figure class="gallery-item gallery-item-wide">
+   77:           <img src="/assets/projects/arch_kampung/img (7).jpg" alt="" />
+   78          </figure>
+
+   80          <figure class="gallery-item gallery-item-wide">
+   81:           <img src="/assets/projects/arch_kampung/img (8).jpg" alt="" />
+   82          </figure>
+
+   84          <figure class="gallery-item gallery-item-wide">
+   85:           <img src="/assets/projects/arch_kampung/img (9).jpg" alt="" />
+   86          </figure>
+
+   88          <figure class="gallery-item gallery-item-wide">
+   89:           <img src="/assets/projects/arch_kampung/img (10).jpg" alt="" />
+   90          </figure>
+
+   92          <figure class="gallery-item gallery-item-wide">
+   93:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+   94          </figure>
+
+   96          <figure class="gallery-item gallery-item-wide">
+   97:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+   98          </figure>
+
+  100          <figure class="gallery-item gallery-item-wide">
+  101:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  102          </figure> -->
+
+assets\projects\art_japan.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_japan/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_japan/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_japan/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_japan/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <!-- <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure> -->
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\art_mandel.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_mandel/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_mandel/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_mandel/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_mandel/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\art_rome.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_rome/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_rome/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_rome/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_rome/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <!-- <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure> -->
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+assets\projects\mus_epi.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_epi/epi.png" alt="Project cover image" />
+  30        </figure>
+
+  42          <audio controls>
+  43:           <source src="/assets/projects/mus_epi/Overture.mp3" type="audio/mpeg">
+  44            Your browser does not support the audio element.
+
+  47          <audio controls>
+  48:           <source src="/assets/projects/mus_epi/Epilogue.mp3" type="audio/mpeg">
+  49            Your browser does not support the audio element.
+
+assets\projects\mus_insomnia.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_insomnia/insomnia.png" alt="Project cover image" />
+  30        </figure>
+
+  40          <audio controls>
+  41:           <source src="/assets/projects/mus_insomnia/insomnia.mp3" type="audio/mpeg">
+  42            Your browser does not support the audio element.
+
+assets\projects\mus_sideline.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_sideline/sideline.png" alt="Project cover image" />
+  30        </figure>
+
+  40          <audio controls>
+  41:           <source src="/assets/projects/mus_sideline/sideline.mp3" type="audio/mpeg">
+  42            Your browser does not support the audio element.
+
+assets\projects\pho_hk-city.html:
+  50          <figure class="gallery-item gallery-item-large">
+  51:           <img src="/assets/projects/pho_hk-city/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item">
+  55:           <img src="/assets/projects/pho_hk-city/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item">
+  59:           <img src="/assets/projects/pho_hk-city/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item">
+  63:           <img src="/assets/projects/pho_hk-city/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item">
+  67:           <img src="/assets/projects/pho_hk-city/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-large">
+  71:           <img src="/assets/projects/pho_hk-city/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/pho_hk-city/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/pho_hk-city/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/pho_hk-city/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/pho_hk-city/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/pho_hk-city/img (11).jpg" alt="" />
+  92          </figure>
+
+assets\projects\pho_hk-ground.html:
+  50          <figure class="gallery-item gallery-item-large">
+  51:           <img src="/assets/projects/pho_hk-ground/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/pho_hk-ground/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item">
+  59:           <img src="/assets/projects/pho_hk-ground/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item">
+  63:           <img src="/assets/projects/pho_hk-ground/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item">
+  67:           <img src="/assets/projects/pho_hk-ground/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-large">
+  71:           <img src="/assets/projects/pho_hk-ground/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-wide">
+  75:           <img src="/assets/projects/pho_hk-ground/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/pho_hk-ground/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-wide">
+  83:           <img src="/assets/projects/pho_hk-ground/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure>
+
+public\assets\projects\arch_cliffside.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/arch_cliffside/img (1).png" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/arch_cliffside/img (2).png" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_cliffside/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_cliffside/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/arch_cliffside/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_cliffside/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/arch_cliffside/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/arch_cliffside/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-wide">
+  83:           <img src="/assets/projects/arch_cliffside/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\arch_house.html:
+  50          <figure class="gallery-item ">
+  51:           <img src="/assets/projects/arch_house/img (1).png" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item ">
+  55:           <img src="/assets/projects/arch_house/img (2).png" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_house/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_house/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/arch_house/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_house/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item ">
+  75:           <img src="/assets/projects/arch_house/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item ">
+  79:           <img src="/assets/projects/arch_house/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item ">
+  83:           <img src="/assets/projects/arch_house/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\arch_housing.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/arch_housing/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/arch_housing/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/arch_housing/img (3).png" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/arch_housing/img (4).png" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item ">
+  67:           <img src="/assets/projects/arch_housing/img (5).png" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/arch_housing/img (6).png" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-wide">
+  75:           <img src="/assets/projects/arch_housing/img (7).png" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/arch_housing/img (8).png" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item ">
+  83:           <img src="/assets/projects/arch_housing/img (9).png" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/arch_housing/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/arch_housing/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\arch_kampung.html:
+   50          <figure class="gallery-item gallery-item-large">
+   51:           <img src="/assets/projects/arch_kampung/img (6).jpg" alt="" />
+   52          </figure>
+
+   54          <figure class="gallery-item gallery-item-wide">
+   55:           <img src="/assets/projects/arch_kampung/img (1).jpg" alt="" />
+   56          </figure>
+
+   58          <figure class="gallery-item gallery-item-large">
+   59:           <img src="/assets/projects/arch_kampung/img (2).jpg" alt="" />
+   60          </figure>
+
+   62          <figure class="gallery-item gallery-item-large">
+   63:           <img src="/assets/projects/arch_kampung/img (3).jpg" alt="" />
+   64          </figure>
+
+   66          <figure class="gallery-item gallery-item-wide">
+   67:           <img src="/assets/projects/arch_kampung/img (4).jpg" alt="" />
+   68          </figure>
+
+   70          <figure class="gallery-item ">
+   71:           <img src="/assets/projects/arch_kampung/img (5).jpg" alt="" />
+   72          </figure>
+
+   76          <figure class="gallery-item gallery-item-wide">
+   77:           <img src="/assets/projects/arch_kampung/img (7).jpg" alt="" />
+   78          </figure>
+
+   80          <figure class="gallery-item gallery-item-wide">
+   81:           <img src="/assets/projects/arch_kampung/img (8).jpg" alt="" />
+   82          </figure>
+
+   84          <figure class="gallery-item gallery-item-wide">
+   85:           <img src="/assets/projects/arch_kampung/img (9).jpg" alt="" />
+   86          </figure>
+
+   88          <figure class="gallery-item gallery-item-wide">
+   89:           <img src="/assets/projects/arch_kampung/img (10).jpg" alt="" />
+   90          </figure>
+
+   92          <figure class="gallery-item gallery-item-wide">
+   93:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+   94          </figure>
+
+   96          <figure class="gallery-item gallery-item-wide">
+   97:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+   98          </figure>
+
+  100          <figure class="gallery-item gallery-item-wide">
+  101:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  102          </figure> -->
+
+public\assets\projects\art_japan.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_japan/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_japan/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_japan/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_japan/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <!-- <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure> -->
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\art_mandel.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_mandel/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_mandel/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_mandel/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_mandel/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\art_rome.html:
+  50          <figure class="gallery-item gallery-item-wide">
+  51:           <img src="/assets/projects/art_rome/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/art_rome/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item gallery-item-wide">
+  59:           <img src="/assets/projects/art_rome/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item gallery-item-wide">
+  63:           <img src="/assets/projects/art_rome/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <!-- <figure class="gallery-item gallery-item-wide">
+  67:           <img src="/assets/projects/art_mandel/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-wide">
+  71:           <img src="/assets/projects/art_mandel/img (6).jpg" alt="" />
+  72          </figure> -->
+
+  74          <!-- <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/art_mandel/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/art_mandel/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/art_mandel/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/art_mandel/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/art_mandel/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-large">
+  95:           <img src="/assets/projects/art_mandel/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-large">
+  99:           <img src="/assets/projects/art_mandel/img (13).jpg" alt="" />
+  100          </figure> -->
+
+public\assets\projects\mus_epi.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_epi/epi.png" alt="Project cover image" />
+  30        </figure>
+
+  42          <audio controls>
+  43:           <source src="/assets/projects/mus_epi/Overture.mp3" type="audio/mpeg">
+  44            Your browser does not support the audio element.
+
+  47          <audio controls>
+  48:           <source src="/assets/projects/mus_epi/Epilogue.mp3" type="audio/mpeg">
+  49            Your browser does not support the audio element.
+
+public\assets\projects\mus_insomnia.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_insomnia/insomnia.png" alt="Project cover image" />
+  30        </figure>
+
+  40          <audio controls>
+  41:           <source src="/assets/projects/mus_insomnia/insomnia.mp3" type="audio/mpeg">
+  42            Your browser does not support the audio element.
+
+public\assets\projects\mus_sideline.html:
+  28        <figure class="project-image">
+  29:         <img src="/assets/projects/mus_sideline/sideline.png" alt="Project cover image" />
+  30        </figure>
+
+  40          <audio controls>
+  41:           <source src="/assets/projects/mus_sideline/sideline.mp3" type="audio/mpeg">
+  42            Your browser does not support the audio element.
+
+public\assets\projects\pho_hk-city.html:
+  50          <figure class="gallery-item gallery-item-large">
+  51:           <img src="/assets/projects/pho_hk-city/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item">
+  55:           <img src="/assets/projects/pho_hk-city/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item">
+  59:           <img src="/assets/projects/pho_hk-city/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item">
+  63:           <img src="/assets/projects/pho_hk-city/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item">
+  67:           <img src="/assets/projects/pho_hk-city/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-large">
+  71:           <img src="/assets/projects/pho_hk-city/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-large">
+  75:           <img src="/assets/projects/pho_hk-city/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-large">
+  79:           <img src="/assets/projects/pho_hk-city/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-large">
+  83:           <img src="/assets/projects/pho_hk-city/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-large">
+  87:           <img src="/assets/projects/pho_hk-city/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-large">
+  91:           <img src="/assets/projects/pho_hk-city/img (11).jpg" alt="" />
+  92          </figure>
+
+public\assets\projects\pho_hk-ground.html:
+  50          <figure class="gallery-item gallery-item-large">
+  51:           <img src="/assets/projects/pho_hk-ground/img (1).jpg" alt="" />
+  52          </figure>
+
+  54          <figure class="gallery-item gallery-item-wide">
+  55:           <img src="/assets/projects/pho_hk-ground/img (2).jpg" alt="" />
+  56          </figure>
+
+  58          <figure class="gallery-item">
+  59:           <img src="/assets/projects/pho_hk-ground/img (3).jpg" alt="" />
+  60          </figure>
+
+  62          <figure class="gallery-item">
+  63:           <img src="/assets/projects/pho_hk-ground/img (4).jpg" alt="" />
+  64          </figure>
+
+  66          <figure class="gallery-item">
+  67:           <img src="/assets/projects/pho_hk-ground/img (5).jpg" alt="" />
+  68          </figure>
+
+  70          <figure class="gallery-item gallery-item-large">
+  71:           <img src="/assets/projects/pho_hk-ground/img (6).jpg" alt="" />
+  72          </figure>
+
+  74          <figure class="gallery-item gallery-item-wide">
+  75:           <img src="/assets/projects/pho_hk-ground/img (7).jpg" alt="" />
+  76          </figure>
+
+  78          <figure class="gallery-item gallery-item-wide">
+  79:           <img src="/assets/projects/pho_hk-ground/img (8).jpg" alt="" />
+  80          </figure>
+
+  82          <figure class="gallery-item gallery-item-wide">
+  83:           <img src="/assets/projects/pho_hk-ground/img (9).jpg" alt="" />
+  84          </figure>
+
+  86          <figure class="gallery-item gallery-item-wide">
+  87:           <img src="/assets/projects/pho_hk-ground/img (10).jpg" alt="" />
+  88          </figure>
+
+  90          <figure class="gallery-item gallery-item-wide">
+  91:           <img src="/assets/projects/pho_hk-ground/img (11).jpg" alt="" />
+  92          </figure>
+
+  94          <figure class="gallery-item gallery-item-wide">
+  95:           <img src="/assets/projects/pho_hk-ground/img (12).jpg" alt="" />
+  96          </figure>
+
+  98          <figure class="gallery-item gallery-item-wide">
+  99:           <img src="/assets/projects/pho_hk-ground/img (13).jpg" alt="" />
+  100          </figure>
